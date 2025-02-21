@@ -4,7 +4,11 @@ Repositori ini berisi implementasi Double Linked List (DLL) dalam C. DLL ini mem
 **Features**
 
 Operasi Node: Membuat, menambah, dan menghapus node dari daftar.
+
 Metode Penyisipan: Menambahkan node ke bagian depan, belakang, dan tengah daftar.
+
 Metode Penghapusan: Menghapus node dari bagian depan dan belakang daftar.
+
 Manajemen Memori: Menghapus semua node untuk mencegah kebocoran memori.
+
 Traversal: Mencetak isi daftar secara berurutan.
